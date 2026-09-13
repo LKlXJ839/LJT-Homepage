@@ -34,12 +34,12 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 ## Selected Publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv 2025) — [[Paper](https://arxiv.org/abs/2505.19641)] [[Code](https://github.com/MiniMax-AI/SynLogic)]
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv 2025) — [[Paper](https://arxiv.org/abs/2503.18435)] [[Code](https://github.com/hkust-nlp/Vision4Chart)]
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — [[Paper](https://arxiv.org/abs/2407.08582)] [[Code](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)]
-- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — [[Paper](https://arxiv.org/abs/2403.01548)]
-- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) — [[Paper](https://arxiv.org/abs/2305.08322)]
-- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) — [[Paper](https://arxiv.org/abs/2306.14870)]
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — First author
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
 
 ## Contact
 
