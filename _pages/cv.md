@@ -24,15 +24,6 @@ Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University, 2023
 
-Skills
-======
-* Research Topics
-  * LLM Reasoning
-  * Reinforcement Learning
-  * Vision-Language Models
-  * LLM Truthfulness
-  * Interpretability
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
