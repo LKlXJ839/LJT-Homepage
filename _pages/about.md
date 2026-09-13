@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year **PhD candidate** at the [HKUST NLP Group](https://nlp.hkust.ust.hk), Hong Kong University of Science and Technology, advised by [Prof. Junxian He](https://jxhe.github.io/). I received my **B.Eng. from Shanghai Jiao Tong University (SJTU)** in June 2024.
+I am a first-year **PhD candidate** at the HKUST NLP Group, Hong Kong University of Science and Technology, advised by Prof. Junxian He. I received my **B.Eng. from Shanghai Jiao Tong University (SJTU)** in June 2024.
 
 ## Research Interests
 
@@ -19,9 +19,9 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 ## Experience
 
-- **Feb 2025 – Present** — Research Intern at [MINIMAX](https://www.minimaxi.com/)
-- **Jun 2024 – Sep 2024** — Research Intern at [Tencent WXG](https://wechat.com/)
-- **Jun 2023 – Dec 2023** — Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
+- **Feb 2025 – Present** — Research Intern at MINIMAX
+- **Jun 2024 – Sep 2024** — Research Intern at Tencent WXG
+- **Jun 2023 – Dec 2023** — Research Intern at Shanghai AI Lab
 
 ## Education
 
